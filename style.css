@@ -1,0 +1,32 @@
+h1 {
+    color: brown;
+}
+
+/*
+* {
+    border: solid;
+}
+*/
+
+.header {
+    background-color:aqua;
+    display:flex;
+    justify-content: space-between;
+
+}
+.menu{
+    background-color: rgb(255, 0, 0);
+}
+
+/*
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+*/
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
